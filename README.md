@@ -1,0 +1,2 @@
+# project-kedua
+latihan2
